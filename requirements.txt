@@ -1,0 +1,4 @@
+channels==3.0.4
+channels-redis==3.4.0
+Django==3.2
+django-dotenv==1.4.2
